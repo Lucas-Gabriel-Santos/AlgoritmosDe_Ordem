@@ -15,7 +15,7 @@ cd AlgoritmosDe_Ordem
 ````
 
 3. Em seguida, somente executar o seguinte comando:
-   ````
-   .\AlgoritmosBusca.exe
-   ```` 
+````
+.\AlgoritmosBusca.exe
+```` 
 
