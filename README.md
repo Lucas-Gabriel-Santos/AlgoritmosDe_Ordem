@@ -4,7 +4,7 @@ Este trabalho tem como objetivo apresentar na prática, os principais algoritmos
 
 ## Instalação do repositótio:
 
-1. Clone o repositótio na máquina local
+1. Clone o repositótio na máquina local:
 ```` git clone [https://github.com/Lucas-Gabriel-Santos/AlgoritmosDe_Ordem.git] ````
 
 2. Procure a pasta do projeto com o comando no terminal:
