@@ -4,4 +4,4 @@ Este trabalho tem como objetivo apresentar na prática, os principais algoritmos
 
 ## Instalação do repositótio:
 
-```` ``` ````git clone [https://github.com/Lucas-Gabriel-Santos/AlgoritmosDe_Ordem.git]
+```` git clone [https://github.com/Lucas-Gabriel-Santos/AlgoritmosDe_Ordem.git] ````
